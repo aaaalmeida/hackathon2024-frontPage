@@ -1,9 +1,11 @@
+import { faCoffee } from "@fortawesome/free-solid-svg-icons"
+import { TitleHeader } from "./components/TitleHeader"
+
+
 const App = () => {
   return (
     <>
-    <h1 className="text-9xl font-bold underline">
-      Hello world!
-    </h1>
+    <TitleHeader title="Apresentação" icon={faCoffee}/>
   </>
   )
 }
