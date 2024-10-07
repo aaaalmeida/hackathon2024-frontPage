@@ -11,7 +11,7 @@ export const Marker = ({
     icon
 }: IMarker) => {
     return (
-        <div className="flex items-center bg-gradient-to-r from-blue-600 to-gray-800 rounded-l-full pr-24 h-fit w-fit mb-4">
+        <div className="flex items-center bg-gradient-to-r from-blue-600 to-gray-800 rounded-l-full pr-64 h-fit w-fit my-4">
             <div className="relative flex items-center justify-center w-12 h-12 bg-blue-700 rounded-full">
                 <FontAwesomeIcon size="2x" icon={icon} className="text-white w-6 h-6" />
                 <div className="absolute inset-0 rounded-full border-2 border-white" />

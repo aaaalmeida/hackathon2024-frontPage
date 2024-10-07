@@ -6,7 +6,7 @@ interface IMainBody {
 
 export const MainBody = ({ children }: IMainBody) => {
     return (
-        <main className="bg-zinc-900 px-24 h-screen w-screen">
+        <main className="bg-zinc-900 px-24 py-6 h-full w-full">
             {children}
         </main>
     )
