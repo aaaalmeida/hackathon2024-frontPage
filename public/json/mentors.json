@@ -1,0 +1,297 @@
+[
+    {
+        "name": "Ana Teresa Souza",
+        "image": "./images/mentors/ana_teresa.jpg",
+        "company": "Zup Innovation",
+        "tags": [
+            "Inteligência Artificial",
+            "Gerenciamento de Projeto",
+            "Educação",
+            "Recrutamento e Seleção"
+        ],
+        "text": "Profissional especializada em gestão educacional e design de aprendizado, atua no desenvolvimento de produtos digitais em startups e na Zup Innovation."
+    },
+    {
+        "name": "André Luiz França Batista",
+        "image": "./images/mentors/andre_luiz.jpg",
+        "company": "IFTM",
+        "tags": [
+            "Tecnologia da Informação",
+            "Inteligência Artificial"
+        ],
+        "text": "Professor de Ciência da Computação no IFTM Ituiutaba, atuando na área acadêmica."
+    },
+    {
+        "name": "Augusto César da Cunha Matos",
+        "company": "SULTS",
+        "text": "Analista de Sistemas Sênior na SULTS, com ampla experiência em desenvolvimento de aplicações web escaláveis. Expertise em tecnologias como Java, Python e AWS.",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "image": "./images/mentors/augusto_matos.jpg"
+    },
+    {
+        "name": "Boris Henrique Crema da Silva",
+        "image": "./images/mentors/boris_henrique.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Engenharia",
+            "Empreendedorismo"
+        ],
+        "company": "Granto Seguros",
+        "text": "Empreendedor com 16 anos de experiência em TI. Fundou sua primeira empresa aos 22 anos e ajudou diversas startups a desenvolverem suas plataformas e ajustarem seus modelos de negócio."
+    },
+    {
+        "name": "Bruno Lacerda",
+        "company": "Lamagro Consultoria",
+        "text": "Engenheiro Eletricista com pós-graduação em Administração e Sustentabilidade, atua como consultor empresarial focado em ESG e gestão estratégica.",
+        "image": "./images/mentors/bruno_lacerda.jpg",
+        "tags": [
+            "Administração",
+            "Empreendedorismo",
+            "Sustentabilidade"
+        ]
+    },
+    {
+        "name": "Camila da Cruz Santos",
+        "image": "./images/mentors/camila_cruz.jpg",
+        "company": "IFTM - Reitoria",
+        "text": "Doutoranda em Ciência da Computação, mestre em Engenharia Elétrica e analista de TI no IFTM. Atua também como Designer Instrucional na UAB.",
+        "tags": [
+            "Tecnologia da Informação"
+        ]
+    },
+    {
+        "name": "Cassia Silva",
+        "company": "Empresa Própria de Consultoria e Assessoria",
+        "image": "./images/mentors/cassia_cruz.jpg",
+        "text": "Mestre em Inovação Tecnológica, com mais de 7 anos de experiência em marketing e inovação. Atua como consultora técnica e facilitadora em programas de inovação.",
+        "tags": [
+            "Engenharia",
+            "Marketing",
+            "Empreendedorismo"
+        ]
+    },
+    {
+        "name": "Cintia Carvalho Oliveira",
+        "company": "IFTM Campus Patrocínio",
+        "image": "./images/mentors/cintia_carvalho.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Empreendedorismo",
+            "Inteligência Artificial"
+        ],
+        "text": "Mestre em Ciência da Computação e docente no IFTM. Com experiência em IA, IoT e Desenvolvimento Web, já coordenou cursos e projetos acadêmicos."
+    },
+    {
+        "name": "Emmanuel Alves de Oliveira",
+        "company": "Desenvolvedora Sênior na PCMS, com experiência em .NET, APIs e SQL Server. Trabalhou na CWI Software e ABCZ.",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "image": "./images/mentors/emmanuel_oliveira.jpg",
+        "text": "Desenvolvedora Sênior na PCMS, com experiência em .NET, APIs e SQL Server. Trabalhou na CWI Software e ABCZ."
+    },
+    {
+        "name": "Gabriel Silveira Teixeira",
+        "company": "Criativa Inova",
+        "image": "./images/mentors/gabriel_teixera.jpg",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "text": "Cloud Architect na Criativa Inova, cursando Sistemas de Informação na Uniube, certificado como Associate Cloud Engineer pela Google."
+    },
+    {
+        "name": "Guilherme Félix Rosa",
+        "company": "Algar Tech/Senac Minas",
+        "image": "./images/mentors/guilherme_felix.jpg",
+        "text": "Desenvolvedor de Sistemas na Algar Tech desde 2022 e docente no Senac Minas em Desenvolvimento Web.",
+        "tags": [
+            "Tecnologia da Informação",
+            "Inteligência Artificial"
+        ]
+    },
+    {
+        "name": "Iago de Sousa Oliveira",
+        "company": "ABCZ",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "image": "./images/mentors/iago_oliveira.jpg",
+        "text": "Formado em ADS pelo IFTM, atua como Fullstack Sênior na ABCZ, sempre buscando atualização contínua."
+    },
+    {
+        "name": "João de Oliveira Júnior",
+        "company": "Biofy Technologies",
+        "tags": [
+            "Tecnologia da Informação",
+            "Experiência do Usuário"
+        ],
+        "image": "./images/mentors/joao_oliveira.jpg",
+        "text": "Engenheiro de Computação e Product Designer na Biofy Technologies, especialista em UX/UI e desenvolvimento de produtos digitais com ferramentas como Figma e Adobe Photoshop."
+    },
+    {
+        "name": "João Pedro Veloso",
+        "company": "Granto Seguros",
+        "image": "./images/mentors/joao_pedro.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Scrum Master"
+        ],
+        "text": "Desenvolvedor back-end e Scrum Master, liderando um time de 7 pessoas em projetos ágeis."
+    },
+    {
+        "name": "José Ricardo Gonçalves Manzan",
+        "company": "IFTM - Campus Uberaba Parque Tecnológico",
+        "tags": [
+            "Inteligência Artificial",
+            "Estatística/Matemática"
+        ],
+        "image": "./images/mentors/jose_ricardo.jpg",
+        "text": "Professor no IFTM desde 2009, doutor em Engenharia Elétrica, atua em inteligência computacional e ministra disciplinas de Matemática e Computação."
+    },
+    {
+        "name": "Ju Honorato",
+        "company": "Connectis",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "image": "./images/mentors/juliana_honorato.jpg",
+        "text": "Graduada em ADS e com MBA em Gestão de Projetos, Marketing e UX Research. Com quase 10 anos de experiência, trabalha como UX Designer no Banco do Brasil, focando em pesquisa e melhoria de produtos."
+    },
+    {
+        "name": "Júlia Cordeiro",
+        "company": "AmbevTech",
+        "tags": [
+            "Tecnologia da Informação",
+            "Engenharia",
+            "Data Science",
+            "IoT",
+            "Automação Industrial"
+        ],
+        "image": "./images/mentors/julia_cordeiro.jpg",
+        "text": "Engenheira de Computação com 4 anos de experiência. Atua com desenvolvimento em IoT e Automação Industrial, utilizando linguagens como Python e Java."
+    },
+    {
+        "name": "Lucas Mesquita Gomes",
+        "company": "Granto Seguros",
+        "image": "./images/mentors/lucas_mesquita.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Design"
+        ],
+        "text": "UX/UI Designer na Granto Seguros, com experiência em criação de protótipos e desenvolvimento front-end."
+    },
+    {
+        "name": "Luciano Melo",
+        "company": "Oficina5 Soluções Inteligentes",
+        "image": "./images/mentors/luciano_melo.jpg",
+        "tags": [
+            "Administração",
+            "Marketing",
+            "Empreendedorismo"
+        ],
+        "text": "Sócio e co-fundador da Oficina5, com MBA em Marketing e experiência em liderança e empreendedorismo. Participa ativamente do ecossistema de inovação ZebuValley."
+    },
+    {
+        "name": "Maikon Lucas Alves",
+        "company": "Relotec/DIMEP",
+        "image": "./images/mentors/maikon_alves.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Administração"
+        ],
+        "text": "Gerente de Projetos com mais de 10 anos de experiência em controle de acesso. Estudante de Engenharia de Software com foco em Gestão de Projetos."
+    },
+    {
+        "name": "Mayla Amorim",
+        "company": "Mayla Amorim Consultoria Organizacional",
+        "image": "./images/mentors/mayla_amorim.jpg",
+        "tags": [
+            "Marketing"
+        ],
+        "text": "Consultora com 30 anos de experiência em varejo, saúde, agronegócio e educação. Especialista em planejamento estratégico e marketing interno, com vivência internacional nos EUA. MBA em Gestão de Negócios pelo IBMEC."
+    },
+    {
+        "name": "Nubia Ferreira",
+        "company": "Parque Tecnológico de Uberaba",
+        "image": "./images/mentors/nubia_ferreira.jpg",
+        "tags": [
+            "Administração",
+            "Empreendedorismo"
+        ],
+        "text": "Economista e administradora com pós-graduação e doutorado em áreas ligadas à economia e produção. Professora universitária, pesquisadora e palestrante em macroeconomia, inovação e empreendedorismo. Mãe de três filhos e avó do Gael."
+    },
+    {
+        "name": "Pablo Fernando de Lima Bispo",
+        "company": "Biofy Technologies",
+        "image": "./images/mentors/pablo_fernando.jpg",
+        "tags": [
+            "Ciência de Dados",
+            "Inteligência Artificial"
+        ],
+        "text": "Head de IA na Biofy Technologies, especializado em Inteligência Artificial e Machine Learning. Focado em Deep Learning e IA generativa, desenvolve soluções inovadoras para biotecnologia, fintechs, e-commerces e outros setores."
+    },
+    {
+        "name": "Pedro Moura",
+        "company": "CI&T",
+        "image": "./images/mentors/pedro_moura.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Engenharia",
+            "Empreendedorismo",
+            "Inteligência Artificial"
+        ],
+        "text": "Especialista em Android com 14 anos de experiência em tecnologia. Empreendedor e mentor em Uberlândia, cofundou uma startup, onde adquiriu profundo conhecimento sobre os desafios do mundo das startups."
+    },
+    {
+        "name": "Pedro Pereira",
+        "company": "Granto Seguros",
+        "image": "./images/mentors/pedro_pereira.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Engenharia"
+        ],
+        "text": "SR Developer .NET e React, Tech Lead na Granto Seguros, atuando também como consultor de TI."
+    },
+    {
+        "name": "Rodrigo Pereira Gonçalves",
+        "company": "Biofy Tech",
+        "image": "./images/mentors/rodrigo_goncalves.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Engenharia",
+            "Inteligência Artificial"
+        ],
+        "text": "Engenheiro Eletricista e Head de IoT na Biofy Tech, com especialização em Data Science e experiência em automação e IA."
+    },
+    {
+        "name": "Samuel Ramos de Morais",
+        "company": "Criativa IA",
+        "image": "./images/mentors/samuel_ramos.jpg",
+        "tags": [
+            "Tecnologia da Informação",
+            "Marketing",
+            "Inteligência Artificial"
+        ],
+        "text": "Designer Gráfico com quase 5 anos de experiência em UX/UI, Front-end e Inteligência Artificial."
+    },
+    {
+        "name": "Victor Hugo Komori Silva",
+        "company": "Granto Seguros",
+        "image": "./images/mentors/victor_hugo.jpg",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "text": "Desenvolvedor .NET Backend pleno."
+    },
+    {
+        "name": "Wanderson Barbosa Ferreira",
+        "company": "Itaú Unibanco / NTT DATA",
+        "image": "./images/mentors/wanderson_ferreira.jpg",
+        "tags": [
+            "Tecnologia da Informação"
+        ],
+        "text": "Desenvolvedor web full-stack desde 2010, atualmente líder em frontend (Angular) na NTT DATA/ITAÚ UNIBANCO."
+    }
+]
